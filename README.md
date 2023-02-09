@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahgjacobs
-- 👀 My biggest hobbies are writing, reading, playing with dogs, going for runs, and learning new things.
-- 🌱 I’m currently learning Fullstack through the Georgia Tech bootcamp. In my free time I teach myself Korean, and I'm writing my fourth novel!
+- 👀 My hobbies are writing, reading, playing with dogs, going for runs, and learning new things.
+- 🌱 I’m a Software Engineer at Georgia Tech's bootcamp. In my free time I teach myself Korean, and I'm writing my fourth novel!
 - 💞️ I’m looking to collaborate on some exciting website projects.
 - 📫 How to reach me sgjacobs14@gmail.com
 

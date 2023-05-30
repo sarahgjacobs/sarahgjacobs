@@ -7,7 +7,6 @@
 
 ![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=dracula)
 
-[![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&show_icons=true&theme=dracula)](https://github.com/sarahgjacobs/github-readme-stats)
 
 
 Let's connect!

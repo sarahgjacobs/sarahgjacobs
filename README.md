@@ -7,8 +7,6 @@
 
 [![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarahgjacobs)](https://github.com/sarahgjacobs/github-readme-stats)
-
 
 Let's connect!
 <a href="mailto:sgjacobs14@gmail.com">![sgjacobs14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

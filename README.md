@@ -5,6 +5,8 @@
 - 📫 How to reach me sgjacobs14@gmail.com
 
 
+![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=dracula)
+
 [![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&show_icons=true&theme=dracula)](https://github.com/sarahgjacobs/github-readme-stats)
 
 

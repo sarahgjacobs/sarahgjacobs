@@ -5,10 +5,10 @@
 - 📫 How to reach me sgjacobs14@gmail.com
 
 
-![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=vue)
+![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=react)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgjacobs&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgjacobs&layout=compact&theme=react)
 
 
 Let's connect!

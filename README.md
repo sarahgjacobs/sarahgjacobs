@@ -8,7 +8,7 @@
 ![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=cobalt)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgjacobs&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgjacobs&layout=compact&theme=cobalt)
 
 
 Let's connect!

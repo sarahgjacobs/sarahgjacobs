@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sarahgjacobs
-- 👀 My hobbies are writing, reading, playing with dogs, going for runs, and learning new things.
-- 🌱 I’m a Software Developer from Georgia Tech's bootcamp. In my free time I teach myself Korean, and I'm writing my fourth novel!
-- 💞️ I’m looking to collaborate on some exciting website projects.
-- 📫 How to reach me sgjacobs14@gmail.com
+-  My hobbies include writing, reading, playing with dogs, going for runs, and learning new things.
+-  I’m a Software Developer from Georgia Tech's bootcamp. In my free time I teach myself Korean, and I'm writing my fourth novel!
 
 
 ![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=react)

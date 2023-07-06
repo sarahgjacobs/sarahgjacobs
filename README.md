@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sarahgjacobs
 -  My hobbies include writing, reading, playing with dogs, going for runs, and learning new things.
--  I’m a Software Developer from Georgia Tech's bootcamp. In my free time I teach myself Korean, and I'm writing my fourth novel!
+-  I'm a self-taught Korean speaker and have created my own tutoring business for the Korean expat community in the greater Atlanta area. 
+-  I’m a Software Developer from Georgia Tech's bootcamp looking for roles local to Atlanta or remote!
 
 
 ![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=react)

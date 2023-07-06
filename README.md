@@ -8,6 +8,8 @@
 ![Sarah Jacobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahgjacobs&rank_icon=github&show_icons=true&theme=dracula)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahgjacobs)](https://github.com/sarahgjacobs/github-readme-stats)
+
 
 Let's connect!
 
